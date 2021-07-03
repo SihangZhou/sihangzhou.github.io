@@ -9,8 +9,8 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Xinwang Liu
-subtitle: Professor
+title: Sihang Zhou
+subtitle: PhD
 
 # left_side:
 #   background_color: "#F00"
